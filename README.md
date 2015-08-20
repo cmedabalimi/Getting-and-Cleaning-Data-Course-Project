@@ -16,3 +16,10 @@ Extracts only the measurements on the mean and standard deviation for each measu
 Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names. 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+##Method
+- Open the R Script run_analysis.R located in this repository
+- Set the working directory to the folder that contains the Samsung Galaxy S smartphone data
+- Run the script
+##Outputs
+- Tidy dataset text file
+- Codebook file
