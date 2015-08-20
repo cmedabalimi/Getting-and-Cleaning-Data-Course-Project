@@ -20,6 +20,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 - Open the R Script run_analysis.R located in this repository
 - Set the working directory to the folder that contains the Samsung Galaxy S smartphone data
 - Run the script
-##Outputs
+
+##Output
 - Tidy dataset text file
 - Codebook file
